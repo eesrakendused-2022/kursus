@@ -1,5 +1,7 @@
 # Eesrakenduste arendamine 2022
 
+Tunni zoomi link: https://us02web.zoom.us/j/84956123305?pwd=U1BVcFdaa0RBRGo0NzVOVkJxUUUvUT09
+
 * **Õpetaja:** Tauri Kirsipuu, [kirsipuutauri@gmail.com]
 * **Testserver:** lin2.tlu.ee (html, js), greeny.cs.tlu.ee (ssl)
 
