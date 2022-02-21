@@ -44,7 +44,7 @@ ssh YourGreenyUsername@greeny.cs.tlu.ee
 
 ## Kodused tööd ja projektid
 
-*
+* https://github.com/eesrakendused-2022/1-kodutoo - Elektrooniline kell
 
 
 ### GitHub'i töövoog
