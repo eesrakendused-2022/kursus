@@ -49,7 +49,7 @@ ssh YourGreenyUsername@greeny.cs.tlu.ee
 
 ### GitHub'i töövoog
 
-1. *Fork*'i ülesande/projekti repositoorium (leiab [https://github.com/eesrakenduste-arendamine-2021/](https://github.com/eesrakenduste-arendamine-2021/)).
+1. *Fork*'i ülesande/projekti repositoorium (leiab [https://github.com/eesrakendused-2022/](https://github.com/eesrakendused-2022/)).
 1. *Clone*'i see repositoorium enda arvutisse/serverisse ja määra repositooriumi URL kuhu edaspidi muudatusi salvestad.
   ```
   git clone https://YOURUSERNAME@github.com/YOURUSERNAME/REPOSITORY.git
