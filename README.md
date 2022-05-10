@@ -1,5 +1,7 @@
 # Eesrakenduste arendamine 2022
 
+Tulemused (tlü google kontoga): https://docs.google.com/spreadsheets/d/1zIJuCCkdTE6s6XH2Hk-Gz_uo2Waelq7jXS7dHtf27YM/edit?usp=sharing
+
 Tunni zoomi link: https://us02web.zoom.us/j/84956123305?pwd=U1BVcFdaa0RBRGo0NzVOVkJxUUUvUT09
 
 * **Õpetaja:** Tauri Kirsipuu, [kirsipuutauri@gmail.com]
